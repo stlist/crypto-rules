@@ -1,0 +1,92 @@
+# 加密货币交易所
+binance.com
+coinbase.com
+okx.com
+kraken.com
+huobi.com
+bybit.com
+gate.io
+kucoin.com
+bitfinex.com
+bittrex.com
+poloniex.com
+gemini.com
+crypto.com
+bitget.com
+mexc.com
+gate.io
+woo.network
+deribit.com
+
+# 钱包
+metamask.io
+trustwallet.com
+rainbow.me
+coinbase.com/wallet
+phantom.app
+solflare.com
+keplr wallet
+uniswap.org
+pancakeswap.finance
+sushi.com
+
+# 数据网站
+coinmarketcap.com
+coingecko.com
+cryptocompare.com
+tradingview.com
+defillama.com
+dappbay.xyz
+dappradar.com
+stateful.work
+
+# 新闻/社区
+twitter.com
+x.com
+reddit.com/r/cryptocurrency
+t.me
+discord.com
+medium.com/@
+
+# 官方App后台
+api.binance.com
+api.okx.com
+api.coinbase.com
+api.kraken.com
+ws.binance.com
+ws.okx.com
+
+# IP范围 (CIDR)
+# Binance
+45.142.122.0/24
+52.84.0.0/15
+
+# Cloudflare 常用
+1.0.1.0/24
+1.2.4.0/24
+
+# 补充更多域名
+# 交易所API
+api.binance.com
+api.okx.com
+api.kucoin.com
+api.bybit.com
+www.binance.com
+www.coinbase.com
+www.okx.com
+pro-api.binance.com
+
+# 钱包App
+app.uniswap.org
+app.pancakeswap.finance
+
+# 区块链Explorer
+etherscan.io
+bscscan.com
+solscan.io
+arbiscan.io
+polygonscan.com
+
+# 交易所WebSocket
+stream.binance.com:9443
+ws.okx.com:8443

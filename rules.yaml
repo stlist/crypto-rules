@@ -1,0 +1,57 @@
+# 加密货币规则 - 用于优化访问
+# 生成日期: 2026-03-03
+
+# 交易所
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,huobi.com
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,kucoin.com
+DOMAIN-SUFFIX,bitfinex.com
+DOMAIN-SUFFIX,bittrex.com
+DOMAIN-SUFFIX,poloniex.com
+DOMAIN-SUFFIX,gemini.com
+DOMAIN-SUFFIX,crypto.com
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,woo.network
+DOMAIN-SUFFIX,deribit.com
+
+# 钱包
+DOMAIN-SUFFIX,metamask.io
+DOMAIN-SUFFIX,trustwallet.com
+DOMAIN-SUFFIX,rainbow.me
+DOMAIN-SUFFIX,phantom.app
+DOMAIN-SUFFIX,solflare.com
+DOMAIN-SUFFIX,uniswap.org
+DOMAIN-SUFFIX,pancakeswap.finance
+DOMAIN-SUFFIX,sushi.com
+
+# 数据网站
+DOMAIN-SUFFIX,coinmarketcap.com
+DOMAIN-SUFFIX,coingecko.com
+DOMAIN-SUFFIX,cryptocompare.com
+DOMAIN-SUFFIX,tradingview.com
+DOMAIN-SUFFIX,defillama.com
+
+# API
+DOMAIN-SUFFIX,api.binance.com
+DOMAIN-SUFFIX,api.okx.com
+DOMAIN-SUFFIX,api.coinbase.com
+DOMAIN-SUFFIX,ws.binance.com
+DOMAIN-SUFFIX,ws.okx.com
+
+# 区块链Explorer
+DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,bscscan.com
+DOMAIN-SUFFIX,solscan.io
+DOMAIN-SUFFIX,arbiscan.io
+DOMAIN-SUFFIX,polygonscan.com
+
+# WebSocket
+DOMAIN-KEYWORD,binance
+DOMAIN-KEYWORD,okx
+DOMAIN-KEYWORD,coinbase
