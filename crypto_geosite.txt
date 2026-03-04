@@ -1,0 +1,14 @@
+! name: cryptocurrency
+! description: Cryptocurrency websites
+binance.com
+coinbase.com
+okx.com
+kraken.com
+huobi.com
+bybit.com
+gate.io
+kucoin.com
+metamask.io
+trustwallet.com
+coinmarketcap.com
+coingecko.com
